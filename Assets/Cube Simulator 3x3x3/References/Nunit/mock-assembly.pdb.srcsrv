@@ -1,0 +1,9 @@
+SRCSRV: ini ------------------------------------------------
+VERSION=2
+SRCSRV: variables ------------------------------------------
+RAWURL=https://raw.github.com/nunit/nunit/4530d6dba175fae6ff8f8ade6c07fd05e6c1c7c5/%var2%
+SRCSRVVERCTRL=https
+SRCSRVTRG=%RAWURL%
+SRCSRV: source files ---------------------------------------
+c:\src\nunit\nunit\src\nunitframework\mock-assembly\mockassembly.cs*src/NUnitFramework/mock-assembly/MockAssembly.cs
+SRCSRV: end ------------------------------------------------

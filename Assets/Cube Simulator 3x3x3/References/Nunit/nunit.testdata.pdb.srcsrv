@@ -1,0 +1,57 @@
+SRCSRV: ini ------------------------------------------------
+VERSION=2
+SRCSRV: variables ------------------------------------------
+RAWURL=https://raw.github.com/nunit/nunit/4530d6dba175fae6ff8f8ade6c07fd05e6c1c7c5/%var2%
+SRCSRVVERCTRL=https
+SRCSRVTRG=%RAWURL%
+SRCSRV: source files ---------------------------------------
+c:\src\nunit\nunit\src\nunitframework\testdata\actionattributefixture.cs*src/NUnitFramework/testdata/ActionAttributeFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\assertcountfixture.cs*src/NUnitFramework/testdata/AssertCountFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\assertfailfixture.cs*src/NUnitFramework/testdata/AssertFailFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\assertignoredata.cs*src/NUnitFramework/testdata/AssertIgnoreData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\assertmultipledata.cs*src/NUnitFramework/testdata/AssertMultipleData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\asyncdummyfixture.cs*src/NUnitFramework/testdata/AsyncDummyFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\asyncexecutionapiadapter.fixture-based.cs*src/NUnitFramework/testdata/AsyncExecutionApiAdapter.Fixture-based.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\asyncrealfixture.cs*src/NUnitFramework/testdata/AsyncRealFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\asyncsetupteardownfixture.cs*src/NUnitFramework/testdata/AsyncSetupTearDownFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\attributeinheritancedata.cs*src/NUnitFramework/testdata/AttributeInheritanceData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\authorfixture.cs*src/NUnitFramework/testdata/AuthorFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\categoryattributedata.cs*src/NUnitFramework/testdata/CategoryAttributeData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\cultureattributedata.cs*src/NUnitFramework/testdata/CultureAttributeData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\datapointfixture.cs*src/NUnitFramework/testdata/DatapointFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\descriptionfixture.cs*src/NUnitFramework/testdata/DescriptionFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\generictestmethoddata.cs*src/NUnitFramework/testdata/GenericTestMethodData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\impliedfixture.cs*src/NUnitFramework/testdata/ImpliedFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\maxtimefixture.cs*src/NUnitFramework/testdata/MaxTimeFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\onetimesetupteardowndata.cs*src/NUnitFramework/testdata/OneTimeSetUpTearDownData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\optionaltestparametersfixture.cs*src/NUnitFramework/testdata/OptionalTestParametersFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\parallelexecutiondata.cs*src/NUnitFramework/testdata/ParallelExecutionData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\parameterizedtestfixture.cs*src/NUnitFramework/testdata/ParameterizedTestFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\propertyattributetests.cs*src/NUnitFramework/testdata/PropertyAttributeTests.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\randomattributefixture.cs*src/NUnitFramework/testdata/RandomAttributeFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\rangetestfixture.cs*src/NUnitFramework/testdata/RangeTestFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\repeatedtestfixture.cs*src/NUnitFramework/testdata/RepeatedTestFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\repeatingtestsfixturebase.cs*src/NUnitFramework/testdata/RepeatingTestsFixtureBase.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\retryfixture.cs*src/NUnitFramework/testdata/RetryFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\sendmessagefixture.cs*src/NUnitFramework/testdata/SendMessageFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\setupdata.cs*src/NUnitFramework/testdata/SetUpData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\setupfixturedata.cs*src/NUnitFramework/testdata/SetUpFixtureData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\singlethreadedfixturedata.cs*src/NUnitFramework/testdata/SingleThreadedFixtureData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\synchronizationcontextfixture.cs*src/NUnitFramework/testdata/SynchronizationContextFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\testattachmentstests.cs*src/NUnitFramework/testdata/TestAttachmentsTests.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\testcaseattributefixture.cs*src/NUnitFramework/testdata/TestCaseAttributeFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\testcaseorderattributefixture.cs*src/NUnitFramework/testdata/TestCaseOrderAttributeFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\testcasesourceattributefixture.cs*src/NUnitFramework/testdata/TestCaseSourceAttributeFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\testcontextdata.cs*src/NUnitFramework/testdata/TestContextData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\testdataspec.cs*src/NUnitFramework/testdata/TestDataSpec.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\testfixturedata.cs*src/NUnitFramework/testdata/TestFixtureData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\testfixturesourcedata.cs*src/NUnitFramework/testdata/TestFixtureSourceData.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\testmethodsignaturefixture.cs*src/NUnitFramework/testdata/TestMethodSignatureFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\testoffixture.cs*src/NUnitFramework/testdata/TestOfFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\textoutputfixture.cs*src/NUnitFramework/testdata/TextOutputFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\theoryfixture.cs*src/NUnitFramework/testdata/TheoryFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\timeoutfixture.cs*src/NUnitFramework/testdata/TimeoutFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\unexpectedexceptionfixture.cs*src/NUnitFramework/testdata/UnexpectedExceptionFixture.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\unhandledexceptions.cs*src/NUnitFramework/testdata/UnhandledExceptions.cs
+c:\src\nunit\nunit\src\nunitframework\testdata\warningfixture.cs*src/NUnitFramework/testdata/WarningFixture.cs
+SRCSRV: end ------------------------------------------------
